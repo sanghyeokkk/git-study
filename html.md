@@ -1,5 +1,5 @@
 category: html
-lectures: Lee
+lectures: Kim
 related:
 
 - css

@@ -1,5 +1,5 @@
 category: python
-lectures: Ryu
+lectures: Shin
 related:
 
 - AI
