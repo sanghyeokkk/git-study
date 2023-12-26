@@ -1,5 +1,5 @@
 category: python
-lectures: Song
+lectures: Ryu
 related:
 
 - AI
