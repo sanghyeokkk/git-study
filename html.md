@@ -1,6 +1,6 @@
 category: html
 title : html basic
-lectures: Kim
+lectures: Wo
 related:
 
 - css
